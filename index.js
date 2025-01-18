@@ -54,5 +54,4 @@ function showWelcomeMessage() {
     }, 5000);
 }
 
-console.log(generateRandomString());
 
